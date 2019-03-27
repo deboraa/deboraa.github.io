@@ -1,9 +1,9 @@
 var webPush = require('web-push');
 var pushSubscription = {
-    "endpoint": "https://android.googleapis.com/gcm/send/c2MpWM5Aves:APA91bGYIZN6SI0AiXhomSCtc5tEBf3WkkpBzY_us-ct8zZQIw9bT-N2qLL0XbJPZ10SYE9B4VbD05T9V5j1tNEyr4J1znN--OLrjOL0A6rncSB_Vvc7mFIIPFSZldWDB3T2bYajCaiN",
+    "endpoint": "https://android.googleapis.com/gcm/send/cqHijiwqjVQ:APA91bFfjt4aMXEwrk4r-8gokTli_iKgPYvhl76usO19TeCXNL8C2EknCmcDlAckF91YP1t8fh_RE4rlv7cuQKYO38YhAeePd_GSTh5hUh7LNQcfCj3GstB4DuWhtwYH23DyTuvaoUmX",
     "keys": {
-        "p256dh": "BCXkqdnZdDSwWEf9Xr45uukXYb/WU9n8vWVxgIf0ATsgcYppgqwFmwegMVQTyW9+uNnp9iiNXqU45v5S8nztiKY=", 
-        "auth": "I3XxYsNiFDjWrZ8s+B6whw=="
+        "p256dh": "BPpq61aZLaJsa+dgorbRp98vZYz/iNYSvv5AzNMxsALF1bakpV3JRQvGJOgLS3U32jkyAeM5xWaG3f5fZQ9fD8s=", 
+        "auth": "GsYnvmPVlNKyxLSPc05odQ=="
     }
 };
 var payload = 'Here is a payload!';

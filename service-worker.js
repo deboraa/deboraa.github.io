@@ -26,7 +26,7 @@ if (workbox){
   workbox.routing.registerRoute(
     new RegExp('/pages/'),
     workbox.strategies.staleWhileRevalidate({
-      cacheName: 'pages
+      cacheName: 'pages'
     })
   );
   

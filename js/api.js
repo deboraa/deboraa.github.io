@@ -35,7 +35,7 @@ function getLeagues(leagues){
     caches.match(leagues).then(function (response) {
       if (response) {
         response.json().then(function (dt) {
-          showLeague(dt);
+          showLeagues(dt);
         });
       }
     });

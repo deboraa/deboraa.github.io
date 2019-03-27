@@ -1,0 +1,2 @@
+Firebase Hosting= https://sepakbola-36fd8.firebaseapp.com
+Github pages= https://deboraa.github.io/
